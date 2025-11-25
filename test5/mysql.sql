@@ -1,0 +1,1 @@
+-- IF(warunek, wartość_jeśli_true, wartość_jeśli_false)
